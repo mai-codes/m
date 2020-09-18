@@ -1,0 +1,41 @@
+/* When I'm not coding...  */
+
+.aboutExtra {
+  padding: 1em 3em;
+  text-align: center;
+}
+
+.aboutExtra h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  letter-spacing: .5px;
+}
+
+.extrasContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 660px) {
+  .extrasContainer {
+    flex-direction: column;
+  }
+}
+
+.extra {
+  text-align: center;
+  margin: 1em 1.25em;
+}
+
+.extra img {
+  max-height: 80px;
+  margin: 0 5px;
+}
+
+.extra p {
+  font-family: 'Source Sans Pro', sans-serif;
+  letter-spacing: .5px;
+  margin: .5em 0 0 0;
+}
