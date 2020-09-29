@@ -1,0 +1,32 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/mai-codes.github.io/404/
+  Link: </mai-codes.github.io/commons-1ade36f2fee45ef48968.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/app-1b83c31a932ce6b88a90.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/path---404-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-pages-404-js-4503918ea3a16cfcdb75.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-layouts-index-js-6d88086c9f53ba0cd9fb.js>; rel=preload; as=script
+/mai-codes.github.io/
+  Link: </mai-codes.github.io/commons-1ade36f2fee45ef48968.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/app-1b83c31a932ce6b88a90.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/path---index-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-pages-index-js-517c35727b7bc8c2b42f.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-layouts-index-js-6d88086c9f53ba0cd9fb.js>; rel=preload; as=script
+/mai-codes.github.io/page-2/
+  Link: </mai-codes.github.io/commons-1ade36f2fee45ef48968.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/app-1b83c31a932ce6b88a90.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/path---page-2-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-pages-page-2-js-65f0147ecb0dc4da2a2b.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-layouts-index-js-6d88086c9f53ba0cd9fb.js>; rel=preload; as=script
+/mai-codes.github.io/404.html
+  Link: </mai-codes.github.io/commons-1ade36f2fee45ef48968.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/app-1b83c31a932ce6b88a90.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/path---404-html-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-pages-404-js-4503918ea3a16cfcdb75.js>; rel=preload; as=script
+  Link: </mai-codes.github.io/component---src-layouts-index-js-6d88086c9f53ba0cd9fb.js>; rel=preload; as=script
